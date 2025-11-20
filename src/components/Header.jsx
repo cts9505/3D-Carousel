@@ -5,8 +5,8 @@ const Header = () => {
         <header className="frame">
             <h1 className="frame__title">On-Scroll 3D Carousel</h1>
             <nav className="frame__links">
-                <a className="line" href="https://tympanus.net/codrops/?p=93330">Article</a>
-                <a className="line" href="https://github.com/codrops/3DCarousel/">Code</a>
+                <a className="line" href="https://onscroll-3d-carousel.vercel.app/">Article</a>
+                <a className="line" href="https://github.com/cts9505/3D-Carousel">Code</a>
                 <a className="line" href="https://tympanus.net/codrops/demos/">All demos</a>
             </nav>
             <nav className="frame__tags">

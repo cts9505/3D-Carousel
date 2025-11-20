@@ -2,6 +2,8 @@
 
 A pixel-perfect React port of the [Codrops On-Scroll 3D Carousel](https://tympanus.net/codrops/2024/05/28/on-scroll-3d-carousel-with-gsap/). This project features a stunning 3D carousel animation driven by scroll, implemented using React, Tailwind CSS, and GSAP.
 
+[Demo](https://onscroll-3d-carousel.vercel.app/) | [Code](https://github.com/cts9505/3D-Carousel)
+
 ![Preview](https://tympanus.net/codrops/wp-content/uploads/2025/05/scroll3dcarousel_featured_final-1536x1152.jpg)
 
 ## Features

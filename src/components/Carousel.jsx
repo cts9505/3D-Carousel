@@ -11,7 +11,7 @@ const Carousel = ({ scene, index }) => {
             <div className="carousel">
                 {scene.carouselImages.map((img, i) => (
                     <div className="carousel__cell" key={i}>
-                        <div className="card" style={{ '--img': `url(${img})` }}>
+                        <div className="card" style={{ '--img': `url("${img}")` }}>
                             <div className="card__face card__face--front"></div>
                             <div className="card__face card__face--back"></div>
                         </div>
